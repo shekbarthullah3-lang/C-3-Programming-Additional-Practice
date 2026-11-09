@@ -1,5 +1,3 @@
-# C-3-Programming-Additional-Practice
-Additional C Programming Practice Programs covering Arrays, Bitwise Operations and Pattern Printing.
 # C-3 Programming – Additional Practice Programs
 
 This repository contains three additional C programming practice programs developed to improve problem-solving skills and understand important C programming concepts.
